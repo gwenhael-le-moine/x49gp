@@ -1,3 +1,5 @@
+gwh: My own fork lives on https://github.com/gwenhael-le-moine/x49gpng
+
 Quick Start Guide
 03/27/2017
 Egan Ford <egan@sense.net>
