@@ -1,4 +1,4 @@
-gwh: My own fork lives on https://github.com/gwenhael-le-moine/x49gpng
+gwh: My own fork lives on [https://codeberg.org/gwh/x50ng](https://codeberg.org/gwh/x50ng)
 
 Quick Start Guide
 03/27/2017
